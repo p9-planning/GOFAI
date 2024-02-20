@@ -163,3 +163,4 @@ fd-symbolic/builds
 fd-partial-grounding/builds
 learning/yap/build
 data
+training-result
