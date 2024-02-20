@@ -164,4 +164,4 @@ fd-partial-grounding/builds
 learning/yap/build
 data
 training-result
-*/training/easy/domain.pddl
+**/training/**/domain.pddl
